@@ -72,3 +72,5 @@ Place images in the `public/` directory:
 - Lenis provides smooth scroll behavior connected to GSAP ticker
 - The Swiper carousel auto-plays with configurable breakpoints
 - Service and footer icons use a string-to-component map (iconName field maps to Lucide icon components: Camera, Diamond, Users, Sparkles, Instagram, Twitter, Linkedin, Mail)
+
+# Test de subida a vercel
